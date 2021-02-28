@@ -847,11 +847,13 @@ path[d="M14 8C14 7.44772 13.5523 7 13 7H9.76001L10.3657 3.58738C10.4201 3.28107 
 
 .channelTextArea-2VhZ6z {
   width: auto;
+  text-shadow: 2px 2px #ff0000;
 }
 
 .channelTextArea-rNsIhG {
   border-radius: 0;
   margin-left: 21px;
+  text-shadow: 2px 2px #ff0000;
   box-shadow: -3px 0 0 var(--color-low), -9px 0 0 var(--color-high), -21px 0 0 var(--color-low), -18px 3px 0 var(--color-mid), 3px 3px 0 var(--color-mid);
 }
 
